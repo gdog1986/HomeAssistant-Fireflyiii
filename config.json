@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "slug": "fireflyiii",
   "description": "Self-hosted personal finances manager",
-  "url": "https://github.com/firefly-iii/firefly-iii",
-  "arch": ["amd64", "armhf", "armv7", "aarch64"],
+  "url": "https://github.com/gdog1986/HomeAssistant-Fireflyiii",
+  "arch": ["amd64"],
   "startup": "services",
   "boot": "auto",
   "ports": {
-    "8080/tcp": 8080
+    "8777/tcp": 8777
   },
   "ports_description": {
-    "8080/tcp": "Firefly III web interface"
+    "8777/tcp": "Firefly III web interface"
   },
   "options": {
     "cron_token": ""
