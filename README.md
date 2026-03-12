@@ -6,7 +6,7 @@
 
 This repository contains the following add-ons
 
-### [Twingate Connector add-on](./HomeAssistant-fireflyiii)
+### [Firefly III add-on](./HomeAssistant-fireflyiii)
 
 ![Supports amd64 Architecture][amd64-shield]
 
