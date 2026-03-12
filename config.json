@@ -19,5 +19,5 @@
   "schema": {
     "cron_token": "str?"
   },
-  "image": "ghcr.io/home-assistant/{arch}-addon-fireflyiii"
+  "image": "ghcr.io/gdog1986/{arch}-HomeAssistant-Fireflyiii"
 }
